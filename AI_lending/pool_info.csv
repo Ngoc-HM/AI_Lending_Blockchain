@@ -1,0 +1,11 @@
+,id,type,projectType,name,imgUrl,chains,tvl,category,totalUsers,tvlChangeRate,totalAssets,totalAssetsChangeRate
+0,justlend,project,defi,JustLend,https://icons.llama.fi/justlend.png,['0x2b6653dc'],6772786978.754576,Lending,4396.0,-0.012387526939166083,6772786978.754576,-0.012387526939166083
+1,aave-v3,project,defi,AAVE V3,https://icons.llama.fi/aave-v3.png,"['0x1', '0x89', '0xfa', '0xa4b1', '0xa', '0xa86a']",4467874675.9118595,Lending,168197.0,0.002353493847963317,4467874675.9118595,0.002353493847963317
+2,aave-v2,project,defi,AAVE V2,https://icons.llama.fi/aave-v2.png,"['0x1', '0x89', '0xa86a']",2399861464.5330257,Lending,77171.0,-0.016377128964200387,2399861464.5330257,-0.016377128964200387
+3,spark,project,defi,Spark,https://icons.llama.fi/spark.jpg,['0x1'],1836858715.4345734,Lending,1445.0,0.008759258796736294,1836858715.4345734,0.008759258796736294
+4,compound-v3,project,defi,Compound V3,https://icons.llama.fi/compound-v3.png,"['0x1', '0x89', '0xa4b1']",1225448000.8852358,Lending,1.0,0.006121274112440563,1225448000.8852358,0.006121274112440563
+5,compound,project,defi,Compound,https://icons.llama.fi/compound.png,['0x1'],1187389697.0962608,Lending,232724.0,0.008997148254487134,1187389697.0962608,0.008997148254487134
+6,venus-core-pool,project,defi,Venus Core Pool,https://icons.llama.fi/venus-core-pool.jpg,['0x38'],936723177.6344904,Lending,,-0.00935111218931897,936723177.6344904,-0.00935111218931897
+7,morpho-aave,project,defi,Morpho Aave,https://icons.llama.fi/morpho.png,['0x1'],370143946.6905264,Lending,,-0.02031806862308577,370143946.6905264,-0.02031806862308577
+8,marginfi-lending,project,defi,marginfi Lending,https://icons.llama.fi/marginfi.jpg,['solana'],358208609.71382755,Lending,,-0.028622309478503867,358208609.71382755,-0.028622309478503867
+9,radiant-v2,project,defi,Radiant V2,https://icons.llama.fi/radiant.png,"['0xa4b1', '0x38', '0x1']",312780351.7344046,Lending,108758.0,-0.021907809599937628,312780351.7344046,-0.021907809599937628
