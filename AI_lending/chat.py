@@ -4,7 +4,7 @@ import datetime
 from langchain.prompts import PromptTemplate
 from langchain.chains.conversation.memory import ConversationSummaryMemory
 from langchain.memory import ConversationBufferMemory
-from langchain.memory.chat_message_histories import RedisChatMessageHistory
+from langchain_community.chat_message_histories import RedisChatMessageHistory
 import os
 from langchain.chat_models.azure_openai import AzureChatOpenAI
 from enum import Enum
